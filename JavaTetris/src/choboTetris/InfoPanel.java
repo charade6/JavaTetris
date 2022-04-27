@@ -53,10 +53,10 @@ public class InfoPanel extends JPanel{
 		
 		// command left
 		g2.setFont(new Font("Calibri", Font.BOLD, 46));
-		g2.drawString("°Ë", 30, 130);
-		g2.drawString("°È", 30, 195);
-		g2.drawString("°Á", 30, 260);
-		g2.drawString("°Ê", 30, 325);
+		g2.drawString("‚Üë", 30, 130);
+		g2.drawString("‚Üì", 30, 195);
+		g2.drawString("‚Üê", 30, 260);
+		g2.drawString("‚Üí", 30, 325);
 		g2.setFont(new Font("Century Gothic", Font.BOLD, 40));
 		g2.drawString("SPACE", 30, 390);
 		g2.drawString("P", 30, 455);
